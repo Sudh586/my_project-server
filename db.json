@@ -1724,7 +1724,7 @@
             "distance_km": 2.5,
             "discount": 15,
             "more": "8",
-            "image": "dineout_1.jpg"
+            "image": "/dineout_1.jpg"
         },
         {
             "id": "SW02",
@@ -1737,7 +1737,7 @@
             "distance_km": 5.2,
             "discount": 10,
             "more": "5",
-            "image": "dineout_2.jpg"
+            "image": "/dineout_2.jpg"
         },
         {
             "id": "PP03",
@@ -1750,7 +1750,7 @@
             "distance_km": 3.8,
             "discount": 20,
             "more": "9",
-            "image": "dineout_3.jpg"
+            "image": "/dineout_3.jpg"
         },
         {
             "id": "GH04",
@@ -1763,7 +1763,7 @@
             "distance_km": 6.0,
             "discount": 25,
             "more": "2",
-            "image": "dineout_4.jpg"
+            "image": "/dineout_4.jpg"
         },
         {
             "id": "TN05",
@@ -1776,7 +1776,7 @@
             "distance_km": 4.5,
             "discount": 18,
             "more": "10",
-            "image": "dineout_5.jpg"
+            "image": "/dineout_5.jpg"
         },
         {
             "id": "BH06",
@@ -1789,7 +1789,7 @@
             "distance_km": 2.0,
             "discount": 12,
             "more": "6",
-            "image": "dineout_6.jpeg"
+            "image": "/dineout_6.jpeg"
         },
         {
             "id": "VB07",
@@ -1802,7 +1802,7 @@
             "distance_km": 5.7,
             "discount": 20,
             "more": "7",
-            "image": "dineout_7.jpg"
+            "image": "/dineout_7.jpg"
         },
         {
             "id": "CJ08",
@@ -1815,7 +1815,7 @@
             "distance_km": 1.5,
             "discount": 10,
             "more": "4",
-            "image": "dineout_8.jpg"
+            "image": "/dineout_8.jpg"
         },
         {
             "id": "BE09",
@@ -1828,7 +1828,7 @@
             "distance_km": 3.2,
             "discount": 30,
             "more": "8",
-            "image": "dineout_9.jpg"
+            "image": "/dineout_9.jpg"
         },
         {
             "id": "SD10",
@@ -1841,7 +1841,7 @@
             "distance_km": 7.0,
             "discount": 15,
             "more": "3",
-            "image": "dineout_10.jpg"
+            "image": "/dineout_10.jpg"
         },
         {
             "id": "DF11",
@@ -1854,7 +1854,7 @@
             "distance_km": 2.8,
             "discount": 22,
             "more": "12",
-            "image": "dineout_11.jpg"
+            "image": "/dineout_11.jpg"
         },
         {
             "id": "TF12",
@@ -1867,7 +1867,7 @@
             "distance_km": 4.3,
             "discount": 17,
             "more": "9",
-            "image": "dineout_12.jpeg"
+            "image": "/dineout_12.jpeg"
         },
         {
             "id": "PC13",
@@ -1880,7 +1880,7 @@
             "distance_km": 3.9,
             "discount": 15,
             "more": "10",
-            "image": "dineout_13.jpg"
+            "image": "/dineout_13.jpg"
         },
         {
             "id": "KN14",
@@ -1893,7 +1893,7 @@
             "distance_km": 5.5,
             "discount": 25,
             "more": "6",
-            "image": "dineout_14.jpg"
+            "image": "/dineout_14.jpg"
         },
         {
             "id": "HB15",
@@ -1906,7 +1906,7 @@
             "distance_km": 3.0,
             "discount": 18,
             "more": "6",
-            "image": "dineout_15.jpeg"
+            "image": "/dineout_15.jpeg"
         }
     ],
 
